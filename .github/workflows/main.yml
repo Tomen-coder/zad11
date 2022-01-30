@@ -33,5 +33,5 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            tomen-coder/lab:ghfront1
+            19980328/lab11:ghfront1
           
